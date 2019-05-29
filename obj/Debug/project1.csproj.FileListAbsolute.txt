@@ -1,0 +1,13 @@
+D:\industryconnect19\project1\project1\bin\Debug\chromedriver.exe
+D:\industryconnect19\project1\project1\bin\Debug\project1.exe.config
+D:\industryconnect19\project1\project1\bin\Debug\project1.exe
+D:\industryconnect19\project1\project1\bin\Debug\project1.pdb
+D:\industryconnect19\project1\project1\bin\Debug\WebDriver.dll
+D:\industryconnect19\project1\project1\bin\Debug\WebDriver.Support.dll
+D:\industryconnect19\project1\project1\bin\Debug\WebDriver.xml
+D:\industryconnect19\project1\project1\bin\Debug\WebDriver.Support.xml
+D:\industryconnect19\project1\project1\obj\Debug\project1.csprojAssemblyReference.cache
+D:\industryconnect19\project1\project1\obj\Debug\project1.csproj.CoreCompileInputs.cache
+D:\industryconnect19\project1\project1\obj\Debug\project1.csproj.CopyComplete
+D:\industryconnect19\project1\project1\obj\Debug\project1.exe
+D:\industryconnect19\project1\project1\obj\Debug\project1.pdb
